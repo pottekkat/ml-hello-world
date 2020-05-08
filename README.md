@@ -1,2 +1,2 @@
-# ml-hello-world
-The Hello World! for Machine Learning!
+# The Hello World! for Machine Learning!
+Check out the notebook in the repo
